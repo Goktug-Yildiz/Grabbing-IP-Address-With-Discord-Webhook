@@ -3,6 +3,10 @@ https://github.com/FRISADO1
 ```
 ## Grabbing-IP-Address-With-Discord-Webhook
 This tool made by FRISADO1 you can grab anyone's ip adress with this tool. This is just for educational purpose I don't accept any responsibility.
+
+## LICENSE
+GNU GENERAL PUBLIC LICENSE [FRISADO1](https://github.com/FRISADO1/Grabbing-IP-Address-With-Discord-Webhook/blob/main/LICENSE)
+
 <h1>Downloading and Integrations</h1>
 Firstly you need to download this file
 
@@ -30,6 +34,6 @@ Finally you should copy the link of Discord Webhook and paste it to "YOUR DISCOR
 
 ![Copy link](images/Screenshot_8.png)
 
-<h1>License</h1>
 
-GNU GENERAL PUBLIC LICENSE [Frisado](https://github.com/FRISADO1/Grabbing-IP-Address-With-Discord-Webhook/blob/main/LICENSE)
+
+
