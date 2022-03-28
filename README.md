@@ -32,4 +32,4 @@ Finally you should copy the link of Discord Webhook and paste it to "YOUR DISCOR
 
 <h1>License</h1>
 
-MIT © [Frisado](https://github.com/FRISADO1/Grabbing-IP-Address-With-Discord-Webhook/blob/main/LICENSE)
+GNU GENERAL PUBLIC LICENSE [Frisado](https://github.com/FRISADO1/Grabbing-IP-Address-With-Discord-Webhook/blob/main/LICENSE)
