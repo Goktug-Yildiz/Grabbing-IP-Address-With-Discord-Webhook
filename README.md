@@ -5,3 +5,5 @@ Firstly you need to download this file
 
 ![How to Download](images/Screenshot_3.png)
 
+Then you must open the code lol.py with Visual Studio Code
+
