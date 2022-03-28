@@ -9,3 +9,8 @@ Then you must open the file lol.py with Visual Studio Code
 
 ![Open with VS Code](images/Screenshot_4.png)
 
+After that you should change the part called "YOUR DISCORD WEBHOOK TO SEND IP'S TO CHANNEL" to your discord webhook to send ip to your server. Then you will send it to your victim and when your victim opens and presses enter the ip is going to send to your channel.
+
+<h1>How to create a Discord Webhook?</h1>
+
+Firstly you should have a Discord account and a private server that you own. Secondly you should go to the "Server Settings" and next "Integrations". Then you should go Webhooks in Integrations and create a new Webhook. Finally you should copy the link of Discord Webhook and paste it to "YOUR DISCORD WEBHOOK TO SEND IP'S TO CHANNEL".
