@@ -8,7 +8,7 @@ Firstly you need to download this file
 
 ![How to Download](images/Screenshot_3.png)
 
-Then you must open the file lol.py with [Visual Studio Code](https://code.visualstudio.com)
+Then you must open the file Application v1.0.py with [Visual Studio Code](https://code.visualstudio.com)
 
 ![Open with VS Code](images/Screenshot_4.png)
 
