@@ -13,4 +13,16 @@ After that you should change the part called "YOUR DISCORD WEBHOOK TO SEND IP'S 
 
 <h1>How to create a Discord Webhook?</h1>
 
-Firstly you should have a Discord account and a private server that you own. Secondly you should go to the "Server Settings" and next "Integrations". Then you should go Webhooks in Integrations and create a new Webhook. Finally you should copy the link of Discord Webhook and paste it to "YOUR DISCORD WEBHOOK TO SEND IP'S TO CHANNEL".
+Firstly you should have a Discord account and a private server that you own. Secondly you should go to the "Server Settings" and next "Integrations".
+
+![Settings](images/Screenshot_5.png)
+
+![Integrations](images/Screenshot_6.png)
+
+Then you should go Webhooks in Integrations and create a new Webhook(Last Photo). 
+
+![Webhooks](images/Screenshot_7.png)
+
+Finally you should copy the link of Discord Webhook and paste it to "YOUR DISCORD WEBHOOK TO SEND IP'S TO CHANNEL".
+
+![Copy link](images/Screenshot_8.png)
