@@ -34,6 +34,8 @@ Finally you should copy the link of Discord Webhook and paste it to "YOUR DISCOR
 
 ![Copy link](images/Screenshot_8.png)
 
+## Contact Wİth Me
 
+You can message me on Discord to frisoda#0609 or you can mail to frisado1@gmail.com
 
 
