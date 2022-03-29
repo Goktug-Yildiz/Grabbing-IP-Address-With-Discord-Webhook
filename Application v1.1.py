@@ -1,5 +1,8 @@
 import requests
 import socket
+
+print('Press "Enter" to Close Application')
+
 hostname=socket.gethostname()   
 IPAddr=socket.gethostbyname(hostname)   
 
