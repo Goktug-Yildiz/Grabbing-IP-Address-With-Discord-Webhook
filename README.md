@@ -1,16 +1,15 @@
 ```
 https://github.com/FRISADO1
 ```
-## As soon as possible I will upload new tutorial to how to use v2.0 .For now u can use v1.1
 
-## Grabbing-IP-Address-With-Discord-Webhook
+## Grabbing-IP-Address-With-Discord-Webhook v2.0
 This tool made by FRISADO1 you can grab anyone's ip adress with this tool. This is just for educational purpose I don't accept any responsibility.
 
 ## LICENSE
 GNU GENERAL PUBLIC LICENSE [FRISADO1](https://github.com/FRISADO1/Grabbing-IP-Address-With-Discord-Webhook/blob/main/LICENSE)
 
 <h1>Downloading and Integrations</h1>
-Firstly you need to download this file
+Firstly you need to download file from releases part v2.0
 
 ![How to Download](images/Screenshot_3.png)
 
