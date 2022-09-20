@@ -13,11 +13,7 @@ Firstly you need to download file from releases part v2.0
 
 ![How to Download](images/Screenshot_2.png)
 
-Then you must open the file Application v1.1.py with [Visual Studio Code](https://code.visualstudio.com)
-
-![Open with VS Code](images/Screenshot_4.png)
-
-After that you should change the part called "YOUR DISCORD WEBHOOK TO SEND IP'S TO CHANNEL" to your discord webhook to send ip to your server. Then you will send it to your victim and when your victim opens and presses enter the ip is going to send to your channel.
+After that you installed the installer open it and use it. After it'll save the file in the Application's file location. You can find it and use it.
 
 <h1>How to create a Discord Webhook?</h1>
 
